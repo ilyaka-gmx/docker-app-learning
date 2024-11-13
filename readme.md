@@ -3,6 +3,7 @@
 This project contains the Docker Learning App, including the conversation logs, source code, and related files.
 
 ## Directory Structure
+```markdown project="Docker Learning App" file="README.md"
 docker-learning-app/
 │
 ├── conversation/
@@ -23,6 +24,7 @@ docker-learning-app/
 │
 └── README.md
 
+```
  
 
 ## Setup and Usage
